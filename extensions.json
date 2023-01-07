@@ -2,6 +2,6 @@
 	// See http://go.microsoft.com/fwlink/?LinkId=827846
 	// for the documentation about the extensions.json format
 	"recommendations": [
-		"eg2.tslint"
+		"ms-vscode.js-debug-companion", "eriklynd.json-tools", "ms-vscode.js-debug", "skyran.js-jsx-snippets", "ms-vscode.vscode-js-profile-table", "Meezilla.json"
 	]
 }
